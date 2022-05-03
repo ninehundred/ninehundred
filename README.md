@@ -14,11 +14,11 @@ I've had a go at quite a few laguages over the years am settling into JS and Pyt
 
 
 <a href="https://github.com/ninehundred/ninehundred-github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-github-readme-stats" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-github-readme-stats" height="120" />
 </a>
 
 <a href="https://github.com/ninehundred/ninehundred-top-languages" target="blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-top-languages" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-top-languages" height="120" />
 </a>
 
 
