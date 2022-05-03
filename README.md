@@ -10,15 +10,17 @@ I've had a go at quite a few laguages over the years am settling into JS and Pyt
 - 🌱 I’m currently learning React, express, python (and django is next!)
 - 💬 Ask me anything!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+
+github stats...
+[![ninehundreds gitHub stats](https://github-readme-stats.vercel.app/api?username=ninehundred&hide=issues,contribs&show_icons=true&theme=react)](https://github.com/ninehundred/ninehundred-github-readme-stats)
 
 
-<a href="https://github.com/ninehundred/ninehundred-github-readme-stats">
+<!-- <a href="https://github.com/ninehundred/ninehundred-github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-github-readme-stats" height="120" />
 </a>
 
 <a href="https://github.com/ninehundred/ninehundred-top-languages" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-top-languages" height="120" />
-</a>
+</a> -->
 
 
