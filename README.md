@@ -13,7 +13,9 @@ I've had a go at quite a few laguages over the years am settling into JS and Pyt
 
 [![ninehundreds gitHub stats](https://github-readme-stats.vercel.app/api?username=ninehundred&hide=issues,contribs&show_icons=true&theme=react)](https://github.com/ninehundred/ninehundred-github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninehundred&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- TODO!: side by side images https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
 <!-- <a href="https://github.com/ninehundred/ninehundred-github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-github-readme-stats" height="120" />
 </a>
