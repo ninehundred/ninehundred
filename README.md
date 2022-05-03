@@ -23,9 +23,9 @@ I've had a go at quite a few laguages over the years am settling into JS and Pyt
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninehundred&repo=ninehundred-top-languages" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</a> -->
