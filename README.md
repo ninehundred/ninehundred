@@ -11,7 +11,6 @@ I've had a go at quite a few laguages over the years am settling into JS and Pyt
 - 💬 Ask me anything!
 - 😄 Pronouns: he/him
 
-github stats...
 [![ninehundreds gitHub stats](https://github-readme-stats.vercel.app/api?username=ninehundred&hide=issues,contribs&show_icons=true&theme=react)](https://github.com/ninehundred/ninehundred-github-readme-stats)
 
 
